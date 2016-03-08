@@ -2,14 +2,16 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron" style="text-align: center" >
-        <h1>board View</h1>
+        <h1>Board View</h1>
         <asp:Panel id="PegBoard" runat="server">
             <asp:RadioButton ID="rb1" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb2" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb3" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb3" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb4" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb5" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb6" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb6" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb7" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb8" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb9" Checked="true" runat="server"/>
@@ -18,7 +20,8 @@
             <asp:RadioButton ID="rb12" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb13" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb14" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb15" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb15" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb16" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb17" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb18" Checked="true" runat="server"/>
@@ -27,7 +30,8 @@
             <asp:RadioButton ID="rb21" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb22" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb23" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb24" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb24" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb25" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb26" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb27" Checked="true" runat="server"/>
@@ -36,10 +40,12 @@
             <asp:RadioButton ID="rb30" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb31" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb32" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb33" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb33" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb34" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb35" Checked="true" runat="server"/>
-            <asp:RadioButton ID="rb36" Checked="true" runat="server"/></br>
+            <asp:RadioButton ID="rb36" Checked="true" runat="server"/>
+            <br></br>
             <asp:RadioButton ID="rb37" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb38" Checked="true" runat="server"/>
             <asp:RadioButton ID="rb39" Checked="true" runat="server"/>
